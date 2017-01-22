@@ -1,0 +1,12 @@
+.exercise-list {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  
+  .title {
+    text-align: center;
+  }
+  .item {
+    margin-top: 10px;
+  }
+}

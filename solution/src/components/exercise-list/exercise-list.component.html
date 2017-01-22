@@ -1,0 +1,6 @@
+<div class="exercise-list">
+  <div class="title">my list</div>
+  <div class="item" *ngFor="let item of items | async">
+    <exercise-item name={{item.name}} value={{item.value}}></exercise-item>
+  </div>
+</div>

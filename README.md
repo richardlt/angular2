@@ -10,6 +10,8 @@ The goal of this first exercise is to setup all tools needed for Angular 2 and t
 
 - Install LTS version of [NodeJS](https://nodejs.org/dist/v6.9.4/node-v6.9.4-x86.msi)
 
+- Install [VSCode](https://code.visualstudio.com/Download)
+
 - Install Angular CLI from terminal
 ```sh
   npm install -g angular-cli
